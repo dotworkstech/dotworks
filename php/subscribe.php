@@ -21,8 +21,8 @@ change $verify_peer to false if you gets error "null" on subscription
 Read before disabling:
 http://snippets.webaware.com.au/howto/stop-turning-off-curlopt_ssl_verifypeer-and-fix-your-php-config/
 */
-$api_key = "YOUR_API_KEY_HERE";
-$list_id = "YOUR_LIST_ID_HERE";
+$api_key = "3313274da64b3c933519a7abf054a2dd-us20";
+$list_id = "76edb4708a";
 $double_opt_in = false;
 $verify_peer = true;
 
