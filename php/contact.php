@@ -22,8 +22,8 @@ function process_input($data) {
 }
 
 /* Contact Configuration */
-$yourMail = "YOUR_MAIL_HERE";
-$yourName = "YOUR_NAME_HERE";
+$yourMail = "dotworkstech@gmail.com";
+$yourName = "Dotworks";
 $subject = "Inquiry from website";
 
 if(!empty($_POST)){
